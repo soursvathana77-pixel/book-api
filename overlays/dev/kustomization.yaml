@@ -5,5 +5,5 @@ resources:
   - namespace.yaml
 
 images:
-  - name: yklee2002/book-api
+  - name: soursvathana/book-api
     newTag: latest
